@@ -1,0 +1,4 @@
+engine:
+  type: Advanced Engine
+  power: "#{100+100}"
+
